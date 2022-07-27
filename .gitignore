@@ -1,0 +1,5 @@
+node_modules/
+/.vscode
+# IntellijIdea files
+.idea/
+.DS_Store

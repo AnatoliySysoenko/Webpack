@@ -1,0 +1,26 @@
+@import "~normalize.css";
+@import "font.css";
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  padding: 20px 40px;
+  margin: 0 auto;
+}
+
+.logo {
+  background-image: url(../assets/webpack_icon.png);
+  background-size: cover;
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+}
